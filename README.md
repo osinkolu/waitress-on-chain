@@ -115,11 +115,11 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ---
 
-## 📫 **Contact**
-
-For questions or collaboration inquiries:
-- **Email:** your.email@example.com
-- **GitHub:** [YourUsername](https://github.com/yourusername)
+## Contact
+For inquiries or collaboration:
+- **Ogunmuyiwa Stephen**: stephenogunmuyi1@gmail.com
+- **Olufemi Victor**: femiosinkolu@gmail.com
+- **Kausar Moshood**: kausarmoshood@gmail.com
 
 ---
 
