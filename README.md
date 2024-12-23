@@ -1,4 +1,4 @@
-# Waitress on Chain
+# Waitress on Chain 👩‍🍳
 
 ### 🚀 **Revolutionizing Everyday Crypto Transactions**
 
