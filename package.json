@@ -1,0 +1,29 @@
+{
+  "name": "onions",
+  "version": "1.0.0",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@ai-sdk/openai": "^1.0.11",
+    "@goat-sdk/adapter-vercel-ai": "^0.2.0",
+    "@goat-sdk/plugin-erc20": "^0.2.2",
+    "@goat-sdk/plugin-kim": "^0.1.2",
+    "@goat-sdk/wallet-viem": "^0.2.0",
+    "ai": "^4.0.22",
+    "body-parser": "^1.20.3",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "typescript": "^5.7.2"
+  },
+  "devDependencies": {
+    "@types/body-parser": "^1.19.5",
+    "@types/express": "^5.0.0",
+    "@types/node": "^22.10.2"
+  }
+}
